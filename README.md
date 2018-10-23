@@ -1,0 +1,2 @@
+# Laravel56_Affiliate_Project
+This is Laravel56_Affiliate_Project
